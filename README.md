@@ -1,0 +1,1 @@
+Projeto feito na imersão Dev da Alura com o Google Gemini, que basicamente, foi criar um site simples pra bucar e desvendar atletas das olimpíadas. No projeto foi usado as seguintes tecnologias: HTML, CSS e JavaScript.
